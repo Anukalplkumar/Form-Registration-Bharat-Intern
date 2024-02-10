@@ -1,2 +1,26 @@
-# Registration-form
-Bharat Intern Virtual Internship, Task 1: Develop a registration form to sign up and store user information using HTML, CSS, Node.js in MongoDB.
+# Form-Registration-Bharat-Intern
+
+This project is the second task of my internship in BHarat Intern
+
+### Getting Started
+- Clone the repository
+```
+git clone https://github.com/Riddhi572/Form-Registration-Bharat-Intern.git
+```
+
+- Navigate to the folder
+```
+cd Form-Registration-Bharat-Intern
+```
+
+- Install the dependencies
+```
+npm install
+```
+
+- Run the project
+```
+npm start
+```
+
+Hurray, you have accessed the Form Registration website successfully.
