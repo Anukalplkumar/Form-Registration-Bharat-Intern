@@ -5,7 +5,7 @@ This project is the second task of my internship in BHarat Intern
 ### Getting Started
 - Clone the repository
 ```
-git clone https://github.com/Riddhi572/Form-Registration-Bharat-Intern.git
+git clone https://github.com/Anukalplkumar/Form-Registration-Bharat-Intern.git
 ```
 
 - Navigate to the folder
